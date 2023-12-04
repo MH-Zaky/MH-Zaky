@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MH-Zaky
 - 👀 I’m interested in tools and coading
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on tools and coading
+- 💞️ I’m looking to collaborate on creating tools for KL-Linux and coading
 - 📫 By mail - dragon1001282@gmail.com
 
 <!---
